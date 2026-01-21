@@ -157,6 +157,10 @@
     },
     {
       "path": "pages/login/login",
+      "type": "page"
+    },
+    {
+      "path": "pages/login/login1",
       "type": "page",
       "style": {
         "navigationStyle": "custom",

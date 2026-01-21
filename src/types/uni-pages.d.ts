@@ -14,6 +14,7 @@ interface NavigateToOptions {
        "/pages/demo/selectPicker" |
        "/pages/demo/tree" |
        "/pages/login/login" |
+       "/pages/login/login1" |
        "/pages/login/loginOauth2" |
        "/pages/message/message" |
        "/pages/more/more" |
